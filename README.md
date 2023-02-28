@@ -1,6 +1,7 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Danil Prokopenko 
 ## Junior iOS Dev
 
+![](https://komarev.com/ghpvc/?username=prokodan&label=Просмотров+/+Views&color=DA1400)
 
 Worked as a SCADA-engineer and Automation engineer for some time but found out passion in Swift coding! Currently looking for a job! Некоторое время работал SCADA-инженером и инженером по автоматизации, но увлекся программированием на Swift! В данный момент в поиске работы!
 
